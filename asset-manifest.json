@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/little-things-blog/static/css/main.a698b561.css",
-    "main.js": "/little-things-blog/static/js/main.220b8954.js",
+    "main.js": "/little-things-blog/static/js/main.0d028476.js",
     "static/js/787.f0167325.chunk.js": "/little-things-blog/static/js/787.f0167325.chunk.js",
     "index.html": "/little-things-blog/index.html",
     "main.a698b561.css.map": "/little-things-blog/static/css/main.a698b561.css.map",
-    "main.220b8954.js.map": "/little-things-blog/static/js/main.220b8954.js.map",
+    "main.0d028476.js.map": "/little-things-blog/static/js/main.0d028476.js.map",
     "787.f0167325.chunk.js.map": "/little-things-blog/static/js/787.f0167325.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a698b561.css",
-    "static/js/main.220b8954.js"
+    "static/js/main.0d028476.js"
   ]
 }
