@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/little-things-blog/static/css/main.073c9b0a.css",
+    "main.js": "/little-things-blog/static/js/main.af746d70.js",
+    "static/js/787.f0167325.chunk.js": "/little-things-blog/static/js/787.f0167325.chunk.js",
+    "static/media/logo.svg": "/little-things-blog/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/little-things-blog/index.html",
+    "main.073c9b0a.css.map": "/little-things-blog/static/css/main.073c9b0a.css.map",
+    "main.af746d70.js.map": "/little-things-blog/static/js/main.af746d70.js.map",
+    "787.f0167325.chunk.js.map": "/little-things-blog/static/js/787.f0167325.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.af746d70.js"
+  ]
+}
