@@ -3,7 +3,7 @@ import useFetch from "./useFetch";
 
 const Newsletter = () => {
     const {id} = useParams();
-    const { data: blog, error, isPending } = useFetch('http://localhost:8000//little-things-blog/newsletters/' + id);
+    const { data: blog, error, isPending } = useFetch('http://localhost:8000/newsletters/' + id);
     const navigate = useNavigate();
 
     return (
